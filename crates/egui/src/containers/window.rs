@@ -63,7 +63,7 @@ impl<'open> Window<'open> {
             collapsible: true,
             default_open: true,
             with_title_bar: true,
-            fade_out: true,
+            fade_out: false,
         }
     }
 

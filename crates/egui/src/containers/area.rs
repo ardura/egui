@@ -138,7 +138,7 @@ impl Area {
             new_pos: None,
             pivot: Align2::LEFT_TOP,
             anchor: None,
-            fade_in: true,
+            fade_in: false,
         }
     }
 
